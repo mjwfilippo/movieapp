@@ -1,0 +1,132 @@
+.login-page-child {
+  position: absolute;
+  top: 391px;
+  left: 28px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-darkslategray-100);
+  width: 359px;
+  height: 76px;
+}
+.login-page-item {
+  position: absolute;
+  top: 493px;
+  left: 28px;
+  border-radius: var(--br-lgi);
+  background-color: var(--color-darkslategray-100);
+  width: 359px;
+  height: 69px;
+}
+.login-page-inner {
+  position: absolute;
+  top: 672px;
+  left: 37px;
+  border-radius: 31px;
+  background-color: var(--color-crimson);
+  width: 355px;
+  height: 62px;
+  cursor: pointer;
+}
+.sign-up {
+  position: absolute;
+  bottom: 126px;
+  left: 175px;
+  font-family: var(--font-applesystemuifont);
+}
+.log-in {
+  position: absolute;
+  top: 694px;
+  left: 168px;
+  font-size: 23px;
+  font-weight: 300;
+}
+.group-item {
+  position: absolute;
+  width: 100%;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-radius: var(--br-6xs) var(--br-6xs) 0px 0px;
+  background-color: #4d617c;
+  border: 1px solid #293251;
+  box-sizing: border-box;
+  height: 9px;
+}
+.group-inner {
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 0px;
+  right: 4px;
+  left: 5px;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 16px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 418px;
+  left: 52px;
+  width: 23px;
+  height: 22px;
+}
+.username {
+  position: absolute;
+  top: 420px;
+  left: 95px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+}
+.password {
+  position: absolute;
+  top: 515px;
+  left: 98px;
+  font-size: var(--font-size-6xl);
+  font-weight: 300;
+}
+.ic-remove-red-eye-24px-icon {
+  position: absolute;
+  top: 520px;
+  left: 52px;
+  width: 22px;
+  height: 15px;
+}
+.login-page-child1 {
+  position: absolute;
+  top: 164px;
+  left: 98px;
+  background-color: rgba(255, 255, 255, 0.19);
+  border: 1px solid #707070;
+  box-sizing: border-box;
+  width: 224px;
+  height: 131px;
+}
+.line-icon {
+  position: absolute;
+  top: 164px;
+  left: 98px;
+  width: 224.5px;
+  height: 131.86px;
+}
+.logo {
+  position: absolute;
+  top: 219px;
+  left: 181px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+}
+.forgot-password {
+  position: absolute;
+  top: 580px;
+  left: 136px;
+  font-weight: 300;
+}
+.login-page {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 896px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-arial-hebrew);
+}

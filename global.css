@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-arial-hebrew: "Arial Hebrew";
+  --font-applesystemuifont: AppleSystemUIFont;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-gray-100: #211f34;
+  --color-gray-200: rgba(0, 0, 0, 0.84);
+  --color-crimson: #d83356;
+  --color-white: #fff;
+  --color-darkslategray-100: #373753;
+
+  /* border radiuses */
+  --br-lg: 18px;
+  --br-6xs: 7px;
+  --br-lgi: 19px;
+}

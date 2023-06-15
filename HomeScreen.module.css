@@ -1,0 +1,162 @@
+.p11710311-b-h11-aa-icon {
+  position: absolute;
+  top: 770px;
+  left: 56px;
+  border-radius: var(--br-lg);
+  width: 294px;
+  height: 197px;
+  object-fit: cover;
+}
+.home-screen-child {
+  position: absolute;
+  top: 935px;
+  left: 56px;
+  border-radius: 0px 0px var(--br-lg) var(--br-lg);
+  background-color: var(--color-gray-200);
+  width: 294px;
+  height: 32px;
+}
+.teen-wolf {
+  position: absolute;
+  top: 942px;
+  left: 166px;
+  font-weight: 300;
+}
+.e5bc3d401894f0e4fd351477e3b913-icon {
+  position: absolute;
+  bottom: 97px;
+  left: 56px;
+  border-radius: var(--br-lg);
+  width: 294px;
+  height: 197px;
+  object-fit: cover;
+}
+.home-screen-item {
+  position: absolute;
+  bottom: 97px;
+  left: 56px;
+  border-radius: 0px 0px var(--br-lg) var(--br-lg);
+  background-color: var(--color-gray-200);
+  width: 294px;
+  height: 32px;
+}
+.attack-on-titan {
+  position: absolute;
+  bottom: 102px;
+  left: 143px;
+  font-weight: 300;
+}
+.ic-movie-creation-24px-icon1 {
+  position: absolute;
+  top: calc(50% - 9.74px);
+  left: calc(50% - 78.77px);
+  width: 32.72px;
+  height: 26.18px;
+}
+.ic-account-circle-24px-icon1 {
+  position: absolute;
+  top: calc(50% - 15.97px);
+  right: 38.68px;
+  width: 32.64px;
+  height: 32.64px;
+}
+.ic-grade-24px-icon1 {
+  position: absolute;
+  height: calc(100% - 31.65px);
+  top: 15.59px;
+  bottom: 16.06px;
+  left: calc(50% + 35.5px);
+  max-height: 100%;
+  width: 35.1px;
+}
+.ic-home-24px-icon1 {
+  position: absolute;
+  top: calc(50% - 15.5px);
+  left: 30px;
+  width: 37.85px;
+  height: 32.17px;
+}
+.ic-movie-creation-24px-parent {
+  position: absolute;
+  top: 831px;
+  left: 0px;
+  background-color: var(--color-crimson);
+  width: 419px;
+  height: 65px;
+}
+.group-child {
+  position: absolute;
+  width: 100%;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-radius: 0px 0px var(--br-lg) var(--br-lg);
+  background-color: var(--color-gray-200);
+  height: 32px;
+}
+.new-girl {
+  position: absolute;
+  bottom: 5px;
+  left: calc(50% - 34px);
+  font-weight: 300;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 284px;
+  left: 56px;
+  border-radius: var(--br-lg);
+  width: 294px;
+  height: 197px;
+  background-image: url("./public/group-4@3x.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.aaaabv5ltei3ehet1npbqkc-ueches-icon {
+  position: absolute;
+  top: 527px;
+  left: 56px;
+  border-radius: var(--br-lg);
+  width: 294px;
+  height: 197px;
+  object-fit: cover;
+}
+.home-screen-inner {
+  position: absolute;
+  top: 692px;
+  left: 56px;
+  border-radius: 0px 0px var(--br-lg) var(--br-lg);
+  background-color: var(--color-gray-200);
+  width: 294px;
+  height: 32px;
+}
+.stranger-things {
+  position: absolute;
+  top: 697px;
+  left: 139px;
+  font-weight: 300;
+}
+.home-screen-child1 {
+  position: absolute;
+  top: 26px;
+  right: 18px;
+  background-color: var(--color-darkslategray-100);
+  width: 189px;
+  height: 35px;
+}
+.search {
+  position: absolute;
+  top: 36px;
+  left: 232px;
+  font-size: var(--font-size-mini);
+}
+.home-screen {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1307px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-arial-hebrew);
+}

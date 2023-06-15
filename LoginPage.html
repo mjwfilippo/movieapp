@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./LoginPage.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Arial Hebrew:wght@300;400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=AppleSystemUIFont:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login-page">
+      <div class="login-page-child"></div>
+      <div class="login-page-item"></div>
+      <div class="login-page-inner" id="rectangle2"></div>
+      <b class="sign-up">Sign up</b>
+      <div class="log-in">LOG IN</div>
+      <div class="rectangle-group">
+        <div class="group-item"></div>
+        <img class="group-inner" alt="" src="./public/ellipse-1.svg" />
+      </div>
+      <div class="username">Username</div>
+      <div class="password">Password</div>
+      <img
+        class="ic-remove-red-eye-24px-icon"
+        alt=""
+        src="./public/ic-remove-red-eye-24px.svg"
+      />
+
+      <div class="login-page-child1"></div>
+      <img class="line-icon" alt="" src="./public/line-1.svg" />
+
+      <img class="line-icon" alt="" src="./public/line-2.svg" />
+
+      <div class="logo">*logo*</div>
+      <div class="forgot-password">Forgot password?</div>
+    </div>
+
+    <script>
+      var rectangle2 = document.getElementById("rectangle2");
+      if (rectangle2) {
+        rectangle2.addEventListener("click", function (e) {
+          window.location.href = "./HomeScreen.html";
+        });
+      }
+      </script>
+  </body>
+</html>
